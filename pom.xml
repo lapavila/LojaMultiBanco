@@ -35,6 +35,6 @@
 			<resource>
 				<directory>src/main/resources</directory>
 			</resource>
-		</resources>
+		</resources> 
 	</build>
 </project>
